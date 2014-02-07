@@ -1,0 +1,20 @@
+{
+    "name": "jcamelis/twitteroauth",
+    "description": "PHP library for working with Twitter's OAuth API.",
+    "keywords": ["twitter", "oauth"],
+    "type": "library",
+    "homepage": "https://github.com/abraham/twitteroauth",
+    "license": "https://github.com/abraham/twitteroauth/blob/master/LICENSE",
+    "authors": [
+        {
+            "name": "Abraham Williams",
+            "homepage": "https://twitter.com/abraham"
+        }
+    ],
+    "require": {
+        "php": ">=5.2.0"
+    },
+    "autoload": {
+        "file": ["twitteroauth/twitteroauth.php"]
+    }
+}
